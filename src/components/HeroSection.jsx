@@ -53,7 +53,7 @@ function HeroSection() {
             impactful contributions in any organization. Let&apos;s collaborate
             and transform ideas into digital reality!
           </p>
-          <div>
+          <div className="relative translate-z-0">
             <button
               onClick={() => (window.location.href = "/#contact")}
               className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-sky-500 via-purple-500 to-red-500 text-white hover:text-black"
@@ -62,7 +62,7 @@ function HeroSection() {
             </button>
             <button
               onClick={() => downloadFile(CV_Download)}
-              className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-sky-500 via-purple-500 to-red-500 text-white mt-3"
+              className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-sky-500 via-purple-500 to-red-500 text-white mt-3 "
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-3">
                 Download CV
