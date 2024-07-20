@@ -46,13 +46,15 @@ function HeroSection() {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
-            Computer Science Engineering student at Chandigarh University,
-            crafting web wonders with ReactJS and JavaScript libraries. Tailwind
-            CSS maestro for sleek designs. Constantly evolving, I am a
-            hardworking and fast learner, staying up-to-date with the latest
-            technologies in the tech realm. More than capable of making
-            impactful contributions in any organization. Let&apos;s collaborate
-            and transform ideas into digital reality!
+            As a Computer Science Engineering graduate from Chandigarh
+            University, I excel in creating innovative web solutions with
+            ReactJS, JavaScript, and Tailwind CSS. I specialize in designing
+            responsive, high-performing websites and applications, utilizing
+            frameworks like Node.js and the MERN stack. With strong skills in
+            JavaScript, HTML, CSS, RESTful APIs, MongoDB, Git, and Vercel, I am
+            committed to delivering impactful, scalable digital solutions.
+            Let&apos;s collaborate to bring visionary ideas to life and advance
+            the future of web development.
           </p>
           <div className="relative translate-z-0">
             <button
