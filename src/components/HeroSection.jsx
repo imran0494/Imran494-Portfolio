@@ -2,7 +2,8 @@ import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 
-const CV_Download = "https://imran494-portfolio.vercel.app/my-resume.pdf";
+const CV_Download =
+  "https://imran494-portfolio.vercel.app/Resume_Mohammad_Imran.pdf";
 
 function HeroSection() {
   const downloadFile = (url) => {
